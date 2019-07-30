@@ -48,6 +48,7 @@ The [DataViz_Scatter](DataViz_Scatter.ipynb) jupyter notebook is a step by step 
 
 ## Other example notebooks
 
+* Tal's Visualization in Python tutorial from last year: https://github.com/neurohackademy/visualization-in-python/blob/master/visualization-in-python.ipynb
 * Raincloudplots: https://github.com/RainCloudPlots/RainCloudPlots
   * [Binder link](https://mybinder.org/v2/gh/RainCloudPlots/RainCloudPlots/master?filepath=tutorial_python%2Fraincloud_tutorial_python.ipynb)
 * The citation advantage of linking publications to research data:
