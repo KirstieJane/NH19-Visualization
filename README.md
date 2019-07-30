@@ -1,5 +1,7 @@
 # NH19-Visualization
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KirstieJane/NH19-Visualization/master?urlpath=lab)
+
 A collection of notebooks demonstrating plotting with matplotlib.
 
 ### Matplotlib and Seaborn Galleries
