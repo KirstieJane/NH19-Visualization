@@ -55,10 +55,4 @@ The [DataViz_Scatter](DataViz_Scatter.ipynb) jupyter notebook is a step by step 
   * [Binder link](https://mybinder.org/v2/gh/RainCloudPlots/RainCloudPlots/master?filepath=tutorial_python%2Fraincloud_tutorial_python.ipynb)
 * The citation advantage of linking publications to research data:
  https://github.com/alan-turing-institute/das-public
-   * [Binder link](https://mybinder.org/v2/gh/kirstiejane/das-public/master?filepath=notebooks%2FDescriptiveFigures.ipynb)
-
-And one of my Google Summer of Code students would love for you to give him feedback on the `scona`🍪 visualizations that he's working on!
-
-* https://github.com/WhitakerLab/scona/pull/145
-* https://github.com/WhitakerLab/scona/pull/140
-* https://github.com/WhitakerLab/scona/pull/121
+   * [Binder link](https://mybinder.org/v2/gh/alan-turing-institute/das-public/master?filepath=notebooks%2FDescriptiveFigures.ipynb)
